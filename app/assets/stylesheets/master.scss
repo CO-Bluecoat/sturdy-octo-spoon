@@ -1,5 +1,5 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
 
 
 
@@ -41,6 +41,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'caviar_dreamsregular', sans-serif
+  
 }
 
 header {
@@ -52,10 +54,12 @@ hr {
 }
 
 h1 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'caviar_dreamsregular', serif;
+  font-weight: bold;
+  font-size: 48px
   
 }
 
 h2 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'caviar_dreamsregular', serif;
   }
